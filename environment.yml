@@ -1,0 +1,8 @@
+name: python3
+
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - matplotlib
+  - plotly
